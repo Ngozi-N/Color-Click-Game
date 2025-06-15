@@ -1,0 +1,7 @@
+# Ignore Docker and system files
+*.log
+*.DS_Store
+*.zip
+node_modules/
+dist/
+.env
